@@ -42,5 +42,5 @@ Password: sree246011
 
 ## Maran
   </ul>
-<li>Github:https://github.com/Maran-sugumaran</li>
+<li>Githu</li>
     </ul>
